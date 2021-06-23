@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #cccccc;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+    height: 12vh;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    padding: 20px
+}
+
+#img-div {
+    text-align: center;
+    background-color: #eeeeee;
+    padding: 10px
+}
+
+body {
+    text-align: center;
+}
+
+main {
+    padding: 0 3vw 0 3vw;
+}
+
+
+h2{
+    margin: 3vw;
+} 
+
